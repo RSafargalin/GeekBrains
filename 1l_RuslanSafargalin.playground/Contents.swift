@@ -43,4 +43,3 @@ for year in yearToString {
     deposit += depositInterest(deposit: deposit, interestRate: interestRate)
     print("Ваш доход на \(year) год составит \(deposit)")
 }
-//
